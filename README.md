@@ -1,4 +1,4 @@
-### Hi there, I'm Ibiene - aka [CodingBgirl]👋 
+### Hi there, I'm Ibiene - aka [CodingBgirl][website]👋 
 
 ## I'm a Breakdancer, Developer, and Deejay!!
 
@@ -14,5 +14,12 @@
 
 <br />
 
+### Live Projects
+- [UnderDrive]
+- [Life Skills]
+
+[website]:
+[UnderDrive]: https://aqueous-headland-29465.herokuapp.com/
+[Life Skills]: https://ehoover3.github.io/react_quizGame/
 [instagram]: https://www.instagram.com/bgirl_apollo/?hl=en
 [linkedin]: https://www.linkedin.com/in/ibiene-longjohn-a1388a207/
